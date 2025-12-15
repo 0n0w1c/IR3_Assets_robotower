@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+  Bugfixes:
+    - None
+  Changes:
+    - Refactored
+    - Adjustments to visual effects and the circuit connector
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
   Bugfixes:
     - None

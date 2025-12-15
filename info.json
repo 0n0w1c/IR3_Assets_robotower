@@ -1,6 +1,6 @@
 {
     "name": "IR3_Assets_robotower",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "IR3 Assets: robotower",
     "author": "Meddleman, 0n0w1c",
     "description": "Adds the 2x2 Robotower using IR3 graphical assets, if installed.\nRequires the manual installation of the Industrial Revolution 3 Asset Packs.",
