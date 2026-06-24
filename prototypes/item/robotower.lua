@@ -13,7 +13,6 @@ data:extend({
         drop_sound = item_sounds.roboport_inventory_move,
         place_result = "robotower",
         stack_size = 10,
-        weight = 50 * kg,
-        minable = { mining_time = 0.1, result = "robotower" }
+        weight = 50 * kg
     }
 })
