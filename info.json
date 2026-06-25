@@ -7,6 +7,6 @@
     "factorio_version": "2.1",
     "dependencies": [
         "base >= 2.1",
-        "IR3_Assets_some_assembly_required >= 0.1.9"
+        "IR3_Assets_some_assembly_required >= 0.2.0"
     ]
 }
